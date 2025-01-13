@@ -1,0 +1,1 @@
+#Just create a Folder in "app"'s Directory, and Name It "Arquivos_Armazenados" to keep the imported Excel Files and the Exported Results. After clicking in "Limpar e Fechar" (in the "Main Page"), it'll clear all armazened files from the import/export, and, Kill the Server (on the local host)
